@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>Internatioanl Companions for Learning</title>
-<link rel="shortcut icon" href="imgages/favicon.ico">
+<link rel="shortcut icon" href="images/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style type="text/css">
 * {
